@@ -1,5 +1,5 @@
 {
-  "name": "eslint2",
+  "name": "animaisfantasticos",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
   },
-  "author": "",
+  "author": "origamid",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.20.12",
